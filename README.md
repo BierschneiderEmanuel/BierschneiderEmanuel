@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Robotics**
 
-- 👨‍💻 All of my projects are available at [www.emanuelbierschneider.de](www.emanuelbierschneider.de)
+- 👨‍💻 All of my projects are available at [www.emanuelbierschneider.de](https://www.emanuelbierschneider.de)
 
-- 📝 I regularly write articles on [www.emanuelbierschneider.de](www.emanuelbierschneider.de)
+- 📝 I regularly write articles on [www.emanuelbierschneider.de](https://www.emanuelbierschneider.de)
 
 - 📫 How to reach me **emanuelbierschneider@gmx.de**
 
