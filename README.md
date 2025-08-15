@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.emanuelbierschneider.de](https://www.emanuelbierschneider.de)
 
-- 📝 I regularly write articles on [www.emanuelbierschneider.de](https://www.emanuelbierschneider.de)
+- 📝 I regularly write articles on [www.emanuelbierschneider.de](https://www.emanuelbierschneider.de) and [www.medium.com/@emanuel.bierschneider](https://medium.com/@emanuel.bierschneider)
 
 - 📫 How to reach me **emanuelbierschneider@gmx.de**
 
