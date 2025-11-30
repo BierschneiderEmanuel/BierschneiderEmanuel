@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bierschneideremanuel" alt="bierschneideremanuel" /></a> </p>
 
-- 🔭 I’m currently working on [MimoAICleaningRobot](https://github.com/BierschneiderEmanuel/MimoAICleaningRobot)
+- 🔭 I’m currently working on [AIA-CLI](https://github.com/BierschneiderEmanuel/AIA-CLI/)
 
 - 🌱 I’m currently learning **Robotics**
 
