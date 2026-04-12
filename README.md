@@ -28,10 +28,8 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bierschneideremanuel&show_icons=true&locale=en&layout=compact" alt="bierschneideremanuel" />
   </a>
 </p>
-
 <p>
   <a href="https://github.com/BierschneiderEmanuel" target="_blank">
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bierschneideremanuel&show_icons=true&locale=en" alt="bierschneideremanuel" />
   </a>
 </p>
-
