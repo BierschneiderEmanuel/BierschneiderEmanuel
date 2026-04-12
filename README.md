@@ -34,4 +34,3 @@
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bierschneideremanuel&show_icons=true&locale=en" alt="bierschneideremanuel" />
   </a>
 </p>
-
